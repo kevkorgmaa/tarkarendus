@@ -19,3 +19,4 @@ while running:
     pygame.draw.circle(screen, (0, 255, 0), (150, 230), 35)
     pygame.display.flip()
     clock.tick(60)
+pygame.quit()
