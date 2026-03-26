@@ -1,17 +1,3 @@
-#1. Käed TEHTUD!
-
-#2. Nööbid (3tk) # TEHTUD!
-
-#3. Kübar/müts # TEHTUD!
-
-#4. Taustaks - helesinine # TEHTUD!
-
-#5. Kätte - hari # TEHTUD!
-
-#6. Päike koos päikese kiirtega
-
-#7. 3 pilve
-
 import pygame
 import math
 triangle = [(150, 94), (150, 100), (163, 97)]
