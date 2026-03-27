@@ -1,6 +1,6 @@
 import pygame
 import math
-triangle = [(150, 94), (150, 100), (163, 97)]
+kolmnurk = [(150, 94), (150, 100), (163, 97)]
 harjaPunktid = [
     (280, 255),
     (300, 245),
@@ -28,7 +28,7 @@ while running:
     pygame.draw.rect(screen, (0, 0, 0), (156, 85, 5, 5))
     pygame.draw.rect(screen, (0, 0, 0), (140, 85, 5, 5))
     # Nina
-    pygame.draw.polygon(screen, (255, 165, 0), triangle)
+    pygame.draw.polygon(screen, (255, 165, 0), kolmnurk)
     # Käed
     pygame.draw.line(screen, (165, 42, 42), (188, 135), (210, 180), 5) #P
     pygame.draw.line(screen, (165, 42, 42), (112, 135), (90, 180), 5) #V
