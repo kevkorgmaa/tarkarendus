@@ -51,6 +51,6 @@ while too_kaib:
     pygame.draw.rect(ekraan, sinine, (x, y, ruudu_suurus, ruudu_suurus))
 
     pygame.display.flip()
-    kell.tick(60)  # piirab FPS-i
+    kell.tick(60)
 
 pygame.quit()
