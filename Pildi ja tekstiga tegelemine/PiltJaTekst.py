@@ -10,20 +10,17 @@ aken = pygame.display.set_mode((LAIUS, KORGUS))
 pygame.display.set_caption("Harjutamine")
 
 VALGE = (255, 255, 255)
-
-skript_kaust = os.path.dirname(os.path.abspath(__file__))
-
-taust = pygame.image.load(os.path.join(skript_kaust, "bg_shop.jpg")).convert()
+taust = pygame.image.load(os.path.join("C:\\Users\\admin\\Desktop\\progemine\\tarkarendus\\Pildi ja tekstiga tegelemine\\bg_shop.jpg")).convert()
 taust = pygame.transform.scale(taust, (LAIUS, KORGUS))
 
 # Müüjar
-muuja = pygame.image.load(os.path.join(skript_kaust, "seller.png")).convert_alpha()
+muuja = pygame.image.load(os.path.join("C:\\Users\\admin\\Desktop\\progemine\\tarkarendus\\Pildi ja tekstiga tegelemine\\seller.png")).convert_alpha()
 muuja_laius = 260
 muuja_korgus = int(muuja_laius * muuja.get_height() / muuja.get_width())
 muuja = pygame.transform.scale(muuja, (muuja_laius, muuja_korgus))
 
 # Jutumull
-jutumull = pygame.image.load(os.path.join(skript_kaust, "chat.png")).convert_alpha()
+jutumull = pygame.image.load(os.path.join("C:\\Users\\admin\\Desktop\\progemine\\tarkarendus\\Pildi ja tekstiga tegelemine\\chat.png")).convert_alpha()
 jm_laius = 255
 jm_korgus = int(jm_laius * jutumull.get_height() / jutumull.get_width())
 jutumull = pygame.transform.scale(jutumull, (jm_laius, jm_korgus))
