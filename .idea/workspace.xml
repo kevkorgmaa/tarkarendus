@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01234e80-c6a8-462c-8c76-268711ca3c0b" name="Changes" comment="uuendatud">
+      <change afterPath="$PROJECT_DIR$/Pildi ja tekstiga tegelemine/Mõõk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pildi ja tekstiga tegelemine/VIKK logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pildi ja tekstiga tegelemine/tort.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pildi ja tekstiga tegelemine/PiltJaTekst.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pildi ja tekstiga tegelemine/PiltJaTekst.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,10 +59,12 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.PiltJaTekst.executor": "Run",
+    "Python.PiltJaTekstLisa.executor": "Run",
     "Python.awd.executor": "Run",
     "Python.foor.executor": "Run",
     "Python.liikuvruut.executor": "Run",
     "Python.lumememm.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.wseruiogbn.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -68,11 +72,16 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/admin/Desktop/progemine/tarkarendus",
+    "last_opened_file_path": "C:/Users/admin/Desktop/progemine/tarkarendus/Pildi ja tekstiga tegelemine",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\progemine\tarkarendus\Pildi ja tekstiga tegelemine" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="lumememm" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="tarkarendus" />
@@ -200,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775502929713</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="uuendatud">
+      <option name="closed" value="true" />
+      <created>1775593190080</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1775593190080</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
