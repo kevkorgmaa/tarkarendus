@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01234e80-c6a8-462c-8c76-268711ca3c0b" name="Changes" comment="uuendatud">
-      <change afterPath="$PROJECT_DIR$/Pildi ja tekstiga tegelemine/Mõõk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pildi ja tekstiga tegelemine/VIKK logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pildi ja tekstiga tegelemine/tort.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="01234e80-c6a8-462c-8c76-268711ca3c0b" name="Changes" comment="uuendatud" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -217,7 +212,23 @@
       <option name="project" value="LOCAL" />
       <updated>1775593190080</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="uuendatud">
+      <option name="closed" value="true" />
+      <created>1777098453471</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1777098453472</updated>
+    </task>
+    <task id="LOCAL-00011" summary="uuendatud">
+      <option name="closed" value="true" />
+      <created>1777098504477</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1777098504477</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
