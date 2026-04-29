@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01234e80-c6a8-462c-8c76-268711ca3c0b" name="Changes" comment="uuendatud" />
+    <list default="true" id="01234e80-c6a8-462c-8c76-268711ca3c0b" name="Changes" comment="uuendatud">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pildi ja tekstiga tegelemine LISA/PiltJaTekstLisa.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pildi ja tekstiga tegelemine LISA/PiltJaTekstLisa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pildi ja tekstiga tegelemine LISA/VIKK_logo.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,9 +39,12 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/kevkorgmaa/tarkarendus.git&quot;,
-    &quot;accountId&quot;: &quot;3f1ab90d-5d29-48c4-b704-b0b0f90fd74a&quot;
+    &quot;accountId&quot;: &quot;64cda3b9-9c90-478f-82d5-a14a0d971722&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Pildi ja tekstiga tegelemine/PiltJaTekst.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -60,6 +67,7 @@
     "Python.liikuvruut.executor": "Run",
     "Python.lumememm.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.tokenize.executor": "Run",
     "Python.wseruiogbn.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -68,7 +76,7 @@
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/admin/Desktop/progemine/tarkarendus/Pildi ja tekstiga tegelemine",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "CodeWithMe",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -128,7 +136,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
       </set>
     </attachedChunks>
   </component>
