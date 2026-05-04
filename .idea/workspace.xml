@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01234e80-c6a8-462c-8c76-268711ca3c0b" name="Changes" comment="uuendatud">
+      <change afterPath="$PROJECT_DIR$/.idea/tarkarendus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tsuklid ja funktsioonid/tsuklid ja funktsioonid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animeerimine/animeerimine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animeerimine/auto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Foor ja memm taiendatud/foor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Foor ja memm taiendatud/foor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pildi ja tekstiga tegelemine/PiltJaTekst.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pildi ja tekstiga tegelemine/PiltJaTekst.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tsuklid ja funktsioonid/tskljafunk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tsuklid ja funktsioonid/tskljafunk.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +64,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.PiltJaTekst.executor": "Run",
     "Python.PiltJaTekstLisa.executor": "Run",
+    "Python.animeerimine.executor": "Run",
+    "Python.auto.executor": "Run",
     "Python.awd.executor": "Run",
     "Python.foor.executor": "Run",
     "Python.liikuvruut.executor": "Run",
@@ -70,16 +73,23 @@
     "Python.main.executor": "Run",
     "Python.tokenize.executor": "Run",
     "Python.tskljafunk.executor": "Run",
+    "Python.tsuklid ja funktsioonid.executor": "Run",
     "Python.wseruiogbn.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/admin/Desktop/progemine/tarkarendus/Pildi ja tekstiga tegelemine",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "CodeWithMe",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
@@ -91,30 +101,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="tarkarendus" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="lumememm" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="tarkarendus" />
       <option name="ENV_FILES" value="" />
@@ -163,62 +149,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="tarkarendus" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="tarkarendus" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="tarkarendus" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
         <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
       </set>
     </attachedChunks>
@@ -230,7 +165,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1774439456364</updated>
-      <workItem from="1777455724016" duration="6967000" />
+      <workItem from="1777455724016" duration="8004000" />
+      <workItem from="1777879585768" duration="2781000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -341,7 +277,14 @@
       <option name="presentableId" value="LOCAL−00014" />
       <updated>1777459478572</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL−00015" summary="uuendatud">
+      <option name="closed" value="true" />
+      <created>1777464849187</created>
+      <option name="number" value="LOCAL−00015" />
+      <option name="presentableId" value="LOCAL−00015" />
+      <updated>1777464849187</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,9 +296,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="uuendatud" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tarkarendus$animeerimine.coverage" NAME="animeerimine Coverage Results" MODIFIED="1777880759951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animeerimine" />
     <SUITE FILE_PATH="coverage/tarkarendus$foor.coverage" NAME="foor Coverage Results" MODIFIED="1777460146446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Foor ja memm taiendatud" />
     <SUITE FILE_PATH="coverage/tarkarendus$PiltJaTekstLisa.coverage" NAME="PiltJaTekstLisa Coverage Results" MODIFIED="1777462243475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pildi ja tekstiga tegelemine LISA" />
     <SUITE FILE_PATH="coverage/tarkarendus$lumememm.coverage" NAME="lumememm Coverage Results" MODIFIED="1777460193756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Foor ja memm taiendatud" />
+    <SUITE FILE_PATH="coverage/tarkarendus$auto.coverage" NAME="auto Coverage Results" MODIFIED="1777881825650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animeerimine" />
+    <SUITE FILE_PATH="coverage/tarkarendus$tsuklid_ja_funktsioonid.coverage" NAME="tsuklid ja funktsioonid Coverage Results" MODIFIED="1777879959334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tsuklid ja funktsioonid" />
     <SUITE FILE_PATH="coverage/tarkarendus$PiltJaTekst.coverage" NAME="PiltJaTekst Coverage Results" MODIFIED="1777462228926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pildi ja tekstiga tegelemine" />
     <SUITE FILE_PATH="coverage/tarkarendus$liikuvruut.coverage" NAME="liikuvruut Coverage Results" MODIFIED="1777463056309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Liikuv ruut" />
     <SUITE FILE_PATH="coverage/tarkarendus$tskljafunk.coverage" NAME="tskljafunk Coverage Results" MODIFIED="1777464464461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tsuklid ja funktsioonid" />
