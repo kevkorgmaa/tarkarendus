@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01234e80-c6a8-462c-8c76-268711ca3c0b" name="Changes" comment="uuendatud">
-      <change afterPath="$PROJECT_DIR$/animeerimine/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animeerimine/ball-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animeerimine/pad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animeerimine/pingpong.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animeerimine/auto.py" beforeDir="false" afterPath="$PROJECT_DIR$/animeerimine/auto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +46,7 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Pildi ja tekstiga tegelemine/PiltJaTekst.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/animeerimine/pingpong.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -56,49 +60,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.PiltJaTekst.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PiltJaTekstLisa.executor&quot;: &quot;Run&quot;,
-    &quot;Python.animeerimine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.auto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.awd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.foor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.liikuvruut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lumememm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tokenize.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tskljafunk.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tsuklid ja funktsioonid.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wseruiogbn.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/progemine/tarkarendus/Pildi ja tekstiga tegelemine&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;CodeWithMe&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.PiltJaTekst.executor": "Run",
+    "Python.PiltJaTekstLisa.executor": "Run",
+    "Python.animeerimine.executor": "Debug",
+    "Python.auto.executor": "Run",
+    "Python.awd.executor": "Run",
+    "Python.foor.executor": "Run",
+    "Python.liikuvruut.executor": "Run",
+    "Python.lumememm.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.pingpong.executor": "Run",
+    "Python.sissejuhatav4.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.tokenize.executor": "Run",
+    "Python.tskljafunk.executor": "Run",
+    "Python.tsuklid ja funktsioonid.executor": "Run",
+    "Python.wseruiogbn.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/kevin.korgmaa/PycharmProjects/tarkarendus/animeerimine",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kevin.korgmaa\PycharmProjects\tarkarendus\animeerimine" />
       <recent name="C:\Users\admin\Desktop\progemine\tarkarendus\Pildi ja tekstiga tegelemine" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lumememm">
+  <component name="RunManager">
     <configuration name="lumememm" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="tarkarendus" />
       <option name="ENV_FILES" value="" />
@@ -151,7 +158,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
         <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
       </set>
     </attachedChunks>
@@ -293,7 +299,14 @@
       <option name="presentableId" value="LOCAL−00016" />
       <updated>1777883028013</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL−00017" summary="uuendatud">
+      <option name="closed" value="true" />
+      <created>1780483337362</created>
+      <option name="number" value="LOCAL−00017" />
+      <option name="presentableId" value="LOCAL−00017" />
+      <updated>1780483337362</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
