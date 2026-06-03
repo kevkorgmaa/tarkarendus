@@ -36,6 +36,8 @@ blue_img = pygame.transform.scale(blue_img_raw, (CAR_W, CAR_H))
 # tee: x=148 kuni x=492, kriipsud x=248 ja x=384 juures
 LANES = [198, 316, 438]
 
+blue_img = pygame.transform.rotate(blue_img, 180)
+red_img  = pygame.transform.rotate(red_img, 180)
 
 # vastaste auto klass
 class BlueCar:

@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01234e80-c6a8-462c-8c76-268711ca3c0b" name="Changes" comment="uuendatud">
-      <change afterPath="$PROJECT_DIR$/animeerimine/ball-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animeerimine/pad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animeerimine/pingpong.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/animeerimine/auto.py" beforeDir="false" afterPath="$PROJECT_DIR$/animeerimine/auto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -306,7 +302,14 @@
       <option name="presentableId" value="LOCAL−00017" />
       <updated>1780483337362</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL−00018" summary="uuendatud">
+      <option name="closed" value="true" />
+      <created>1780486472428</created>
+      <option name="number" value="LOCAL−00018" />
+      <option name="presentableId" value="LOCAL−00018" />
+      <updated>1780486472428</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
