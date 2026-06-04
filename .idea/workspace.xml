@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01234e80-c6a8-462c-8c76-268711ca3c0b" name="Changes" comment="uuendatud">
+      <change beforePath="$PROJECT_DIR$/.idea/tarkarendus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tarkarendus.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/animeerimine/auto.py" beforeDir="false" afterPath="$PROJECT_DIR$/animeerimine/auto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +44,6 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Pildi ja tekstiga tegelemine/PiltJaTekst.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/animeerimine/pingpong.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -56,48 +57,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.PiltJaTekst.executor": "Run",
-    "Python.PiltJaTekstLisa.executor": "Run",
-    "Python.animeerimine.executor": "Debug",
-    "Python.auto.executor": "Run",
-    "Python.awd.executor": "Run",
-    "Python.foor.executor": "Run",
-    "Python.liikuvruut.executor": "Run",
-    "Python.lumememm.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.pingpong.executor": "Run",
-    "Python.sissejuhatav4.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.tokenize.executor": "Run",
-    "Python.tskljafunk.executor": "Run",
-    "Python.tsuklid ja funktsioonid.executor": "Run",
-    "Python.wseruiogbn.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/kevin.korgmaa/PycharmProjects/tarkarendus/animeerimine",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.PiltJaTekst.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PiltJaTekstLisa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.animeerimine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.auto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.awd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.foor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.liikuvruut.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lumememm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tokenize.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tskljafunk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tsuklid ja funktsioonid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wseruiogbn.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/progemine/tarkarendus/Pildi ja tekstiga tegelemine&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CodeWithMe&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\kevin.korgmaa\PycharmProjects\tarkarendus\animeerimine" />
       <recent name="C:\Users\admin\Desktop\progemine\tarkarendus\Pildi ja tekstiga tegelemine" />
     </key>
   </component>
@@ -115,6 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="C:\Users\admin\Desktop\progemine\tarkarendus\lumememm.py" />
@@ -139,6 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
@@ -154,6 +153,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
         <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
       </set>
     </attachedChunks>
@@ -166,11 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1774439456364</updated>
       <workItem from="1777455724016" duration="8004000" />
-      <workItem from="1777879585768" duration="4617000" />
-      <workItem from="1778135985721" duration="260000" />
-      <workItem from="1779876134603" duration="606000" />
-      <workItem from="1780483091565" duration="185000" />
-      <workItem from="1780483291240" duration="3000" />
+      <workItem from="1777879585768" duration="2781000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -288,28 +284,7 @@
       <option name="presentableId" value="LOCAL−00015" />
       <updated>1777464849187</updated>
     </task>
-    <task id="LOCAL−00016" summary="uuendatud">
-      <option name="closed" value="true" />
-      <created>1777883028013</created>
-      <option name="number" value="LOCAL−00016" />
-      <option name="presentableId" value="LOCAL−00016" />
-      <updated>1777883028013</updated>
-    </task>
-    <task id="LOCAL−00017" summary="uuendatud">
-      <option name="closed" value="true" />
-      <created>1780483337362</created>
-      <option name="number" value="LOCAL−00017" />
-      <option name="presentableId" value="LOCAL−00017" />
-      <updated>1780483337362</updated>
-    </task>
-    <task id="LOCAL−00018" summary="uuendatud">
-      <option name="closed" value="true" />
-      <created>1780486472428</created>
-      <option name="number" value="LOCAL−00018" />
-      <option name="presentableId" value="LOCAL−00018" />
-      <updated>1780486472428</updated>
-    </task>
-    <option name="localTasksCounter" value="19" />
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,15 +296,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="uuendatud" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tarkarendus$animeerimine.coverage" NAME="animeerimine Coverage Results" MODIFIED="1779876144356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animeerimine" />
-    <SUITE FILE_PATH="coverage/tarkarendus$foor.coverage" NAME="foor Coverage Results" MODIFIED="1778135995208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Foor ja memm taiendatud" />
-    <SUITE FILE_PATH="coverage/tarkarendus$test.coverage" NAME="test Coverage Results" MODIFIED="1779876486721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animeerimine" />
-    <SUITE FILE_PATH="coverage/tarkarendus$PiltJaTekstLisa.coverage" NAME="PiltJaTekstLisa Coverage Results" MODIFIED="1777462243475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pildi ja tekstiga tegelemine LISA" />
-    <SUITE FILE_PATH="coverage/tarkarendus$lumememm.coverage" NAME="lumememm Coverage Results" MODIFIED="1777460193756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Foor ja memm taiendatud" />
-    <SUITE FILE_PATH="coverage/tarkarendus$auto.coverage" NAME="auto Coverage Results" MODIFIED="1777882992724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animeerimine" />
-    <SUITE FILE_PATH="coverage/tarkarendus$tsuklid_ja_funktsioonid.coverage" NAME="tsuklid ja funktsioonid Coverage Results" MODIFIED="1777879959334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tsuklid ja funktsioonid" />
+    <SUITE FILE_PATH="coverage/tarkarendus$auto.coverage" NAME="auto Coverage Results" MODIFIED="1780554157709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animeerimine" />
+    <SUITE FILE_PATH="coverage/tarkarendus$animeerimine.coverage" NAME="animeerimine Coverage Results" MODIFIED="1777880759951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animeerimine" />
+    <SUITE FILE_PATH="coverage/tarkarendus$foor.coverage" NAME="foor Coverage Results" MODIFIED="1777460146446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Foor ja memm taiendatud" />
     <SUITE FILE_PATH="coverage/tarkarendus$PiltJaTekst.coverage" NAME="PiltJaTekst Coverage Results" MODIFIED="1777462228926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pildi ja tekstiga tegelemine" />
+    <SUITE FILE_PATH="coverage/tarkarendus$PiltJaTekstLisa.coverage" NAME="PiltJaTekstLisa Coverage Results" MODIFIED="1777462243475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pildi ja tekstiga tegelemine LISA" />
     <SUITE FILE_PATH="coverage/tarkarendus$liikuvruut.coverage" NAME="liikuvruut Coverage Results" MODIFIED="1777463056309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Liikuv ruut" />
     <SUITE FILE_PATH="coverage/tarkarendus$tskljafunk.coverage" NAME="tskljafunk Coverage Results" MODIFIED="1777464464461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tsuklid ja funktsioonid" />
+    <SUITE FILE_PATH="coverage/tarkarendus$tsuklid_ja_funktsioonid.coverage" NAME="tsuklid ja funktsioonid Coverage Results" MODIFIED="1777879959334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tsuklid ja funktsioonid" />
+    <SUITE FILE_PATH="coverage/tarkarendus$lumememm.coverage" NAME="lumememm Coverage Results" MODIFIED="1777460193756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Foor ja memm taiendatud" />
   </component>
 </project>
