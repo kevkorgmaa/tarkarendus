@@ -1,19 +1,3 @@
-"""
-=============================================================
- USSI-MOOD - PyGame Ussimäng
- Autor: [Sinu Nimi]
- Kuupäev: 2026
- Versioon: 1.0
-
- TÄIENDUSED (5 modifikatsiooni):
-   1. TASEMED (Levels)       - mäng kiireneb iga 5 punktiga
-   2. TAKISTUSED (Obstacles) - kasvav seinte/takistuste arv
-   3. ERILINE TOIT (Power-up) - kuldne õun annab +3 punkti ja aeglustab
-   4. MITU ELU (Lives)       - mängijal on 3 elu
-   5. ANIMEERITUD TAUST       - liikuv täheline taust vastavalt tasemele
-=============================================================
-"""
-
 import pygame          # peamine mängumootor
 import random          # juhuslike arvude generaator
 import sys             # süsteemi funktsioonid (väljumine)
