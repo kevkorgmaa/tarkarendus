@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01234e80-c6a8-462c-8c76-268711ca3c0b" name="Changes" comment="uuendatud">
-      <change beforePath="$PROJECT_DIR$/.idea/tarkarendus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tarkarendus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kokkuporge/pingpong-taiendatud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kokkuporge/sissejuhatav_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/animeerimine/auto.py" beforeDir="false" afterPath="$PROJECT_DIR$/animeerimine/auto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animeerimine/ball-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kokkuporge/ball-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animeerimine/pad.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kokkuporge/pad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animeerimine/pingpong.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kokkuporge/pingpong.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +53,65 @@
     <commands />
     <urls />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.6037397978708627" />
+      <entry key="MS500" value="3.076894902781561" />
+      <entry key="S2" value="3.9549792502320895" />
+      <entry key="S5" value="5.172426697713751" />
+      <entry key="S10" value="6.708818827556539" />
+      <entry key="S30" value="13.063114229808429" />
+      <entry key="S60" value="21.103173855900785" />
+      <entry key="M2" value="30.075956694050678" />
+      <entry key="M5" value="39.48129176336559" />
+      <entry key="M10" value="43.810778523026016" />
+      <entry key="M15" value="45.434815398418195" />
+      <entry key="M30" value="47.161714998086254" />
+      <entry key="H1" value="48.06637081804855" />
+      <entry key="H2" value="48.52949045616308" />
+      <entry key="H4" value="48.76381214524004" />
+      <entry key="D1" value="48.96050496083142" />
+      <entry key="W1" value="48.99435464764295" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="8.594406840631038E-64" />
+      <entry key="MS500" value="2.4369307141939585E-13" />
+      <entry key="S2" value="7.026042871146578E-4" />
+      <entry key="S5" value="0.05478786162336563" />
+      <entry key="S10" value="0.2341316316112521" />
+      <entry key="S30" value="0.6561939180158547" />
+      <entry key="S60" value="0.9848127049038101" />
+      <entry key="M2" value="1.3329856588771622" />
+      <entry key="M5" value="1.6773647772476525" />
+      <entry key="M10" value="1.8273323588623753" />
+      <entry key="M15" value="1.8821870981802307" />
+      <entry key="M30" value="1.939695203009249" />
+      <entry key="H1" value="1.9694887542165782" />
+      <entry key="H2" value="1.984653480401297" />
+      <entry key="H4" value="1.9923038661732035" />
+      <entry key="D1" value="1.9987141212800703" />
+      <entry key="W1" value="1.9998162247562423" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.5169361076250787" />
+      <entry key="MS500" value="3.042382599642544" />
+      <entry key="S2" value="3.9134770770257843" />
+      <entry key="S5" value="5.06624025810569" />
+      <entry key="S10" value="6.7126246068968705" />
+      <entry key="S30" value="13.52614151540852" />
+      <entry key="S60" value="21.9477641212727" />
+      <entry key="M2" value="31.313383396097283" />
+      <entry key="M5" value="41.108226615723225" />
+      <entry key="M10" value="45.60984965522041" />
+      <entry key="M15" value="47.29737794523986" />
+      <entry key="M30" value="49.09117521102097" />
+      <entry key="H1" value="50.0306301734274" />
+      <entry key="H2" value="50.511500441893936" />
+      <entry key="H4" value="50.75478696016616" />
+      <entry key="D1" value="50.95899655008998" />
+      <entry key="W1" value="50.99413905692671" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -57,45 +120,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.PiltJaTekst.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PiltJaTekstLisa.executor&quot;: &quot;Run&quot;,
-    &quot;Python.animeerimine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.auto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.awd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.foor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.liikuvruut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lumememm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tokenize.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tskljafunk.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tsuklid ja funktsioonid.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wseruiogbn.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/progemine/tarkarendus/Pildi ja tekstiga tegelemine&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;CodeWithMe&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.PiltJaTekst.executor": "Run",
+    "Python.PiltJaTekstLisa.executor": "Run",
+    "Python.animeerimine.executor": "Run",
+    "Python.auto.executor": "Run",
+    "Python.awd.executor": "Run",
+    "Python.foor.executor": "Run",
+    "Python.liikuvruut.executor": "Run",
+    "Python.lumememm.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.pingpong-taiendatud.executor": "Debug",
+    "Python.pingpong.executor": "Run",
+    "Python.sissejuhatav_5.executor": "Run",
+    "Python.tokenize.executor": "Run",
+    "Python.tskljafunk.executor": "Run",
+    "Python.tsuklid ja funktsioonid.executor": "Run",
+    "Python.wseruiogbn.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/admin/Desktop/progemine/tarkarendus/Pildi ja tekstiga tegelemine",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CodeWithMe",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\Desktop\progemine\tarkarendus\Pildi ja tekstiga tegelemine" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Kokkuporge" />
     </key>
   </component>
   <component name="RunManager">
@@ -153,8 +224,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
-        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
       </set>
     </attachedChunks>
   </component>
@@ -167,6 +237,7 @@
       <updated>1774439456364</updated>
       <workItem from="1777455724016" duration="8004000" />
       <workItem from="1777879585768" duration="2781000" />
+      <workItem from="1780978894129" duration="1896000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -284,7 +355,15 @@
       <option name="presentableId" value="LOCAL−00015" />
       <updated>1777464849187</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="uuendatud">
+      <option name="closed" value="true" />
+      <created>1780554382404</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1780554382404</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,14 +375,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="uuendatud" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tarkarendus$auto.coverage" NAME="auto Coverage Results" MODIFIED="1780554157709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animeerimine" />
+    <SUITE FILE_PATH="coverage/tarkarendus$auto.coverage" NAME="auto Coverage Results" MODIFIED="1780555660163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animeerimine" />
+    <SUITE FILE_PATH="coverage/tarkarendus$pingpong.coverage" NAME="pingpong Coverage Results" MODIFIED="1780980187148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kokkuporge" />
     <SUITE FILE_PATH="coverage/tarkarendus$animeerimine.coverage" NAME="animeerimine Coverage Results" MODIFIED="1777880759951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animeerimine" />
     <SUITE FILE_PATH="coverage/tarkarendus$foor.coverage" NAME="foor Coverage Results" MODIFIED="1777460146446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Foor ja memm taiendatud" />
     <SUITE FILE_PATH="coverage/tarkarendus$PiltJaTekst.coverage" NAME="PiltJaTekst Coverage Results" MODIFIED="1777462228926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pildi ja tekstiga tegelemine" />
-    <SUITE FILE_PATH="coverage/tarkarendus$PiltJaTekstLisa.coverage" NAME="PiltJaTekstLisa Coverage Results" MODIFIED="1777462243475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pildi ja tekstiga tegelemine LISA" />
-    <SUITE FILE_PATH="coverage/tarkarendus$liikuvruut.coverage" NAME="liikuvruut Coverage Results" MODIFIED="1777463056309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Liikuv ruut" />
+    <SUITE FILE_PATH="coverage/tarkarendus$pingpong_taiendatud.coverage" NAME="pingpong-taiendatud Coverage Results" MODIFIED="1780980751806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kokkuporge" />
     <SUITE FILE_PATH="coverage/tarkarendus$tskljafunk.coverage" NAME="tskljafunk Coverage Results" MODIFIED="1777464464461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tsuklid ja funktsioonid" />
     <SUITE FILE_PATH="coverage/tarkarendus$tsuklid_ja_funktsioonid.coverage" NAME="tsuklid ja funktsioonid Coverage Results" MODIFIED="1777879959334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tsuklid ja funktsioonid" />
+    <SUITE FILE_PATH="coverage/tarkarendus$PiltJaTekstLisa.coverage" NAME="PiltJaTekstLisa Coverage Results" MODIFIED="1777462243475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pildi ja tekstiga tegelemine LISA" />
+    <SUITE FILE_PATH="coverage/tarkarendus$liikuvruut.coverage" NAME="liikuvruut Coverage Results" MODIFIED="1777463056309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Liikuv ruut" />
+    <SUITE FILE_PATH="coverage/tarkarendus$sissejuhatav_5.coverage" NAME="sissejuhatav_5 Coverage Results" MODIFIED="1780979852020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kokkuporge" />
     <SUITE FILE_PATH="coverage/tarkarendus$lumememm.coverage" NAME="lumememm Coverage Results" MODIFIED="1777460193756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Foor ja memm taiendatud" />
   </component>
 </project>

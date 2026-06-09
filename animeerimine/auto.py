@@ -17,6 +17,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 bg_img = pygame.image.load(os.path.join(BASE_DIR, "bg_rally.jpg")).convert()
 bg_img = pygame.transform.scale(bg_img, (W, H))
 
+
 red_img_raw = pygame.image.load(os.path.join(BASE_DIR, "f1_red.png")).convert_alpha()
 blue_img_raw = pygame.image.load(os.path.join(BASE_DIR, "f1_blue.png")).convert_alpha()
 
