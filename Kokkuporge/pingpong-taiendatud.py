@@ -24,14 +24,21 @@ font = pygame.font.SysFont("monospace", 22, bold=True)
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
-# --- Taustamuusika ---
-try:
-    pygame.mixer.music.load(os.path.join(script_dir, "music.mp3"))
-    pygame.mixer.music.set_volume(0.5)
-    pygame.mixer.music.play(-1)   # -1 = korda lõputult
-except Exception:
-    pass   # muusikafaili pole – jätkame ilma
+## Taustamuusika
+pygame.mixer.music.load(os.path.join(script_dir, "music.mp3"))
+pygame.mixer.music.set_volume(0.3)
+pygame.mixer.music.play(-1)
 
+# Heliefektid
+heli_labikukkumine = pygame.mixer.Sound(
+    os.path.join(script_dir, "fail.mp3")
+)
+heli_labikukkumine.set_volume(0.8)
+
+heli_alus = pygame.mixer.Sound(
+    os.path.join(script_dir, "touch.mp3")
+)
+heli_alus.set_volume(0.8)
 # --- Pildid ---
 try:
     ball_img = pygame.image.load(os.path.join(script_dir, "ball-1.png")).convert_alpha()
@@ -170,7 +177,9 @@ while True:
             ball_vx = rel * 6
             if abs(ball_vx) < 1:
                 ball_vx = 1.0 if ball_vx >= 0 else -1.0
+            if heli_alus: heli_alus.play()
             score += 1
+
 
         # Pall kukub alla → mäng lõpetatakse
         if ball_y - BALL_SIZE / 2 > SCREEN_H:
@@ -179,7 +188,7 @@ while True:
                 pygame.mixer.music.stop()
             except Exception:
                 pass
-
+            if heli_labikukkumine: heli_labikukkumine.play()
     draw_background()
     draw_pad()
     draw_ball()
