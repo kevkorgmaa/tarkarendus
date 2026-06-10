@@ -6,7 +6,7 @@ import math
 pygame.font.init()
 
 # Constants
-SCREEN_WIDTH, SCREEN_HEIGHT = 900, 900
+SCREEN_WIDTH, SCREEN_HEIGHT = 900, 840
 EXTRA_HEIGHT = 50  # Additional space for UI elements
 BACKGROUND_COLOR = (0, 0, 0)
 STAR_COLOR = (205, 205, 205)
@@ -14,11 +14,11 @@ FPS = 60
 
 # Asset paths
 PACMAN_IMG_PATH = "images/pacman.png"
-RED_GHOST_IMG_PATH = "images/red_ghost.png"
-BLUE_GHOST_IMG_PATH = "images/blue_ghost.png"
-ORANGE_GHOST_IMG_PATH = "images/orange_ghost.png"
-PINK_GHOST_IMG_PATH = "images/pink_ghost.png"
-MAP_IMG_PATH = "images/pacman_map.jpeg"
+RED_GHOST_IMG_PATH = "../../images/red_ghost.png"
+BLUE_GHOST_IMG_PATH = "../../images/blue_ghost.png"
+ORANGE_GHOST_IMG_PATH = "../../images/orange_ghost.png"
+PINK_GHOST_IMG_PATH = "../../images/pink_ghost.png"
+MAP_IMG_PATH = "../../images/pacman_map.jpeg"
 
 # Load and scale images
 def load_image(path, size=(30, 30)):

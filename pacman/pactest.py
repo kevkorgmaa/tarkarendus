@@ -420,8 +420,8 @@ def uuenda_ekraan(ekraan, tähted, pacman, kummitused, slimed):
     ekraan.fill(BLACK)
     ekraan.blit(TAUST_PILT, (0, 0))
 
-    # Joonista käigud siniste joontena (kood 1)
-    joonista_keskkond(ekraan)
+    # Sinised abijooned eemaldatud.
+    # joonista_keskkond(ekraan)
 
     # Joonista tähted (punktid)
     for täht in tähted:
@@ -528,7 +528,8 @@ def mäng(ekraan):
                 sys.exit()
             elif sündmus.type == pygame.KEYDOWN:
                 if sündmus.key == pygame.K_ESCAPE:
-                    return   # tagasi menüüsse
+                    pygame.quit()
+                    sys.exit()
                 if not mäng_lõppes:
                     if sündmus.key == pygame.K_a:
                         pacman.järgmine_suund['järjekorras'] = (-1, 0)
