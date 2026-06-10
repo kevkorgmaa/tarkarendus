@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01234e80-c6a8-462c-8c76-268711ca3c0b" name="Changes" comment="uuendatud">
-      <change afterPath="$PROJECT_DIR$/Kokkuporge/pingpong-taiendatud.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kokkuporge/sissejuhatav_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_4_26__9_10AM__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pacman/algsed mangud/pacman 1#/enemies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pacman/algsed mangud/pacman 1#/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pacman/algsed mangud/pacman 1#/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pacman/algsed mangud/pacman 1#/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pacman/algsed mangud/pacman 3#/pacman 3#.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pacman/algsed mangud/pacman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pacman/pacman.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animeerimine/auto.py" beforeDir="false" afterPath="$PROJECT_DIR$/animeerimine/auto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animeerimine/ball-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kokkuporge/ball-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animeerimine/pad.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kokkuporge/pad.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animeerimine/pingpong.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kokkuporge/pingpong.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,61 +57,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.6037397978708627" />
-      <entry key="MS500" value="3.076894902781561" />
-      <entry key="S2" value="3.9549792502320895" />
-      <entry key="S5" value="5.172426697713751" />
-      <entry key="S10" value="6.708818827556539" />
-      <entry key="S30" value="13.063114229808429" />
-      <entry key="S60" value="21.103173855900785" />
-      <entry key="M2" value="30.075956694050678" />
-      <entry key="M5" value="39.48129176336559" />
-      <entry key="M10" value="43.810778523026016" />
-      <entry key="M15" value="45.434815398418195" />
-      <entry key="M30" value="47.161714998086254" />
-      <entry key="H1" value="48.06637081804855" />
-      <entry key="H2" value="48.52949045616308" />
-      <entry key="H4" value="48.76381214524004" />
-      <entry key="D1" value="48.96050496083142" />
-      <entry key="W1" value="48.99435464764295" />
+      <entry key="MS100" value="1.2918894828244798" />
+      <entry key="MS500" value="2.163899628523443" />
+      <entry key="S2" value="2.823202915146899" />
+      <entry key="S5" value="3.8970763016322705" />
+      <entry key="S10" value="5.2066012236109245" />
+      <entry key="S30" value="7.3830607004580076" />
+      <entry key="S60" value="8.679087512986799" />
+      <entry key="M2" value="9.65782677301755" />
+      <entry key="M5" value="10.444909540108256" />
+      <entry key="M10" value="11.714488117327848" />
+      <entry key="M15" value="15.10402727694768" />
+      <entry key="M30" value="33.84932470100363" />
+      <entry key="H1" value="71.88357301311306" />
+      <entry key="H2" value="128.90540636196198" />
+      <entry key="H4" value="195.37832253309392" />
+      <entry key="D1" value="302.70794438416686" />
+      <entry key="W1" value="329.2661550783285" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="8.594406840631038E-64" />
-      <entry key="MS500" value="2.4369307141939585E-13" />
-      <entry key="S2" value="7.026042871146578E-4" />
-      <entry key="S5" value="0.05478786162336563" />
-      <entry key="S10" value="0.2341316316112521" />
-      <entry key="S30" value="0.6561939180158547" />
-      <entry key="S60" value="0.9848127049038101" />
-      <entry key="M2" value="1.3329856588771622" />
-      <entry key="M5" value="1.6773647772476525" />
-      <entry key="M10" value="1.8273323588623753" />
-      <entry key="M15" value="1.8821870981802307" />
-      <entry key="M30" value="1.939695203009249" />
-      <entry key="H1" value="1.9694887542165782" />
-      <entry key="H2" value="1.984653480401297" />
-      <entry key="H4" value="1.9923038661732035" />
-      <entry key="D1" value="1.9987141212800703" />
-      <entry key="W1" value="1.9998162247562423" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="3.4937343227719595E-273" />
+      <entry key="S10" value="5.91078194723207E-137" />
+      <entry key="S30" value="3.8955441509081234E-46" />
+      <entry key="S60" value="1.9904393029693974E-23" />
+      <entry key="M2" value="5.00704820831408E-12" />
+      <entry key="M5" value="4.9987195926899956E-5" />
+      <entry key="M10" value="0.013463401067187653" />
+      <entry key="M15" value="0.0921168264650157" />
+      <entry key="M30" value="0.6681624255723664" />
+      <entry key="H1" value="2.1406352033836686" />
+      <entry key="H2" value="5.092307454338491" />
+      <entry key="H4" value="9.087087566256503" />
+      <entry key="D1" value="15.955238215283096" />
+      <entry key="W1" value="17.68990790409838" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.5169361076250787" />
-      <entry key="MS500" value="3.042382599642544" />
-      <entry key="S2" value="3.9134770770257843" />
-      <entry key="S5" value="5.06624025810569" />
-      <entry key="S10" value="6.7126246068968705" />
-      <entry key="S30" value="13.52614151540852" />
-      <entry key="S60" value="21.9477641212727" />
-      <entry key="M2" value="31.313383396097283" />
-      <entry key="M5" value="41.108226615723225" />
-      <entry key="M10" value="45.60984965522041" />
-      <entry key="M15" value="47.29737794523986" />
-      <entry key="M30" value="49.09117521102097" />
-      <entry key="H1" value="50.0306301734274" />
-      <entry key="H2" value="50.511500441893936" />
-      <entry key="H4" value="50.75478696016616" />
-      <entry key="D1" value="50.95899655008998" />
-      <entry key="W1" value="50.99413905692671" />
+      <entry key="MS100" value="1.2201268495710234" />
+      <entry key="MS500" value="2.136853392056764" />
+      <entry key="S2" value="2.813584365602287" />
+      <entry key="S5" value="3.8904629204276278" />
+      <entry key="S10" value="5.20151529012049" />
+      <entry key="S30" value="7.380255294183399" />
+      <entry key="S60" value="8.677308014668363" />
+      <entry key="M2" value="9.656788318664168" />
+      <entry key="M5" value="10.444489075576426" />
+      <entry key="M10" value="11.72755712295496" />
+      <entry key="M15" value="15.195495870877616" />
+      <entry key="M30" value="34.51595915202937" />
+      <entry key="H1" value="74.02185327477302" />
+      <entry key="H2" value="133.99471134975238" />
+      <entry key="H4" value="204.4625740275839" />
+      <entry key="D1" value="318.66231095717166" />
+      <entry key="W1" value="346.9559238073121" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -129,12 +131,20 @@
     "Python.auto.executor": "Run",
     "Python.awd.executor": "Run",
     "Python.foor.executor": "Run",
+    "Python.game.executor": "Run",
+    "Python.hiiremang.executor": "Run",
     "Python.liikuvruut.executor": "Run",
     "Python.lumememm.executor": "Run",
     "Python.main.executor": "Run",
-    "Python.pingpong-taiendatud.executor": "Debug",
+    "Python.pacman 3#.executor": "Run",
+    "Python.pacman.executor": "Run",
+    "Python.pingpong-taiendatud.executor": "Run",
     "Python.pingpong.executor": "Run",
     "Python.sissejuhatav_5.executor": "Run",
+    "Python.snake 1#.executor": "Run",
+    "Python.snake 2#.executor": "Run",
+    "Python.snake 3#.executor": "Run",
+    "Python.snake.executor": "Run",
     "Python.tokenize.executor": "Run",
     "Python.tskljafunk.executor": "Run",
     "Python.tsuklid ja funktsioonid.executor": "Run",
@@ -166,6 +176,8 @@
       <recent name="C:\Users\admin\Desktop\progemine\tarkarendus\Pildi ja tekstiga tegelemine" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pacman/algsed mangud/pacman 3#" />
+      <recent name="$PROJECT_DIR$/pacman/algsed mangud/pacman 1#" />
       <recent name="$PROJECT_DIR$/Kokkuporge" />
     </key>
   </component>
@@ -237,7 +249,11 @@
       <updated>1774439456364</updated>
       <workItem from="1777455724016" duration="8004000" />
       <workItem from="1777879585768" duration="2781000" />
-      <workItem from="1780978894129" duration="1896000" />
+      <workItem from="1780978894129" duration="2551000" />
+      <workItem from="1780986172848" duration="3436000" />
+      <workItem from="1780989843347" duration="14669000" />
+      <workItem from="1781071500847" duration="8285000" />
+      <workItem from="1781090462529" duration="4883000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -363,7 +379,63 @@
       <option name="project" value="LOCAL" />
       <updated>1780554382404</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="uuendatud">
+      <option name="closed" value="true" />
+      <created>1780980821657</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1780980821657</updated>
+    </task>
+    <task id="LOCAL-00018" summary="uuendatud">
+      <option name="closed" value="true" />
+      <created>1780992013866</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1780992013866</updated>
+    </task>
+    <task id="LOCAL-00019" summary="uuendatud">
+      <option name="closed" value="true" />
+      <created>1780992138249</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1780992138249</updated>
+    </task>
+    <task id="LOCAL-00020" summary="uuendatud">
+      <option name="closed" value="true" />
+      <created>1780996491596</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1780996491596</updated>
+    </task>
+    <task id="LOCAL-00021" summary="uuendatud">
+      <option name="closed" value="true" />
+      <created>1781000450396</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1781000450396</updated>
+    </task>
+    <task id="LOCAL-00022" summary="uuendatud">
+      <option name="closed" value="true" />
+      <created>1781003431705</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1781003431705</updated>
+    </task>
+    <task id="LOCAL-00023" summary="uuendatud">
+      <option name="closed" value="true" />
+      <created>1781077291561</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1781077291561</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,16 +448,25 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/tarkarendus$auto.coverage" NAME="auto Coverage Results" MODIFIED="1780555660163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animeerimine" />
-    <SUITE FILE_PATH="coverage/tarkarendus$pingpong.coverage" NAME="pingpong Coverage Results" MODIFIED="1780980187148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kokkuporge" />
+    <SUITE FILE_PATH="coverage/tarkarendus$pingpong.coverage" NAME="pingpong Coverage Results" MODIFIED="1780996436102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kokkuporge" />
     <SUITE FILE_PATH="coverage/tarkarendus$animeerimine.coverage" NAME="animeerimine Coverage Results" MODIFIED="1777880759951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animeerimine" />
     <SUITE FILE_PATH="coverage/tarkarendus$foor.coverage" NAME="foor Coverage Results" MODIFIED="1777460146446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Foor ja memm taiendatud" />
     <SUITE FILE_PATH="coverage/tarkarendus$PiltJaTekst.coverage" NAME="PiltJaTekst Coverage Results" MODIFIED="1777462228926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pildi ja tekstiga tegelemine" />
-    <SUITE FILE_PATH="coverage/tarkarendus$pingpong_taiendatud.coverage" NAME="pingpong-taiendatud Coverage Results" MODIFIED="1780980751806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kokkuporge" />
+    <SUITE FILE_PATH="coverage/tarkarendus$pacman_3_.coverage" NAME="pacman 3# Coverage Results" MODIFIED="1781099357023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pacman/algsed mangud/pacman 3#" />
+    <SUITE FILE_PATH="coverage/tarkarendus$pingpong_taiendatud.coverage" NAME="pingpong-taiendatud Coverage Results" MODIFIED="1780993377247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kokkuporge" />
     <SUITE FILE_PATH="coverage/tarkarendus$tskljafunk.coverage" NAME="tskljafunk Coverage Results" MODIFIED="1777464464461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tsuklid ja funktsioonid" />
     <SUITE FILE_PATH="coverage/tarkarendus$tsuklid_ja_funktsioonid.coverage" NAME="tsuklid ja funktsioonid Coverage Results" MODIFIED="1777879959334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tsuklid ja funktsioonid" />
+    <SUITE FILE_PATH="coverage/tarkarendus$hiiremang.coverage" NAME="hiiremang Coverage Results" MODIFIED="1781007243619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ulesanne7" />
+    <SUITE FILE_PATH="coverage/tarkarendus$snake_2_.coverage" NAME="snake 2# Coverage Results" MODIFIED="1781078144577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/snake/algsed mangud" />
+    <SUITE FILE_PATH="coverage/tarkarendus$game.coverage" NAME="game Coverage Results" MODIFIED="1781093989437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pacman" />
+    <SUITE FILE_PATH="coverage/tarkarendus$snake_3_.coverage" NAME="snake 3# Coverage Results" MODIFIED="1781078177230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/snake/algsed mangud" />
+    <SUITE FILE_PATH="coverage/tarkarendus$main.coverage" NAME="main Coverage Results" MODIFIED="1781099385771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pacman/algsed mangud/pacman 1#" />
     <SUITE FILE_PATH="coverage/tarkarendus$PiltJaTekstLisa.coverage" NAME="PiltJaTekstLisa Coverage Results" MODIFIED="1777462243475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pildi ja tekstiga tegelemine LISA" />
     <SUITE FILE_PATH="coverage/tarkarendus$liikuvruut.coverage" NAME="liikuvruut Coverage Results" MODIFIED="1777463056309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Liikuv ruut" />
-    <SUITE FILE_PATH="coverage/tarkarendus$sissejuhatav_5.coverage" NAME="sissejuhatav_5 Coverage Results" MODIFIED="1780979852020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kokkuporge" />
-    <SUITE FILE_PATH="coverage/tarkarendus$lumememm.coverage" NAME="lumememm Coverage Results" MODIFIED="1777460193756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Foor ja memm taiendatud" />
+    <SUITE FILE_PATH="coverage/tarkarendus$snake_1_.coverage" NAME="snake 1# Coverage Results" MODIFIED="1781093162311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/snake/algsed mangud" />
+    <SUITE FILE_PATH="coverage/tarkarendus$sissejuhatav_5.coverage" NAME="sissejuhatav_5 Coverage Results" MODIFIED="1780993265049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kokkuporge" />
+    <SUITE FILE_PATH="coverage/tarkarendus$snake.coverage" NAME="snake Coverage Results" MODIFIED="1781079041883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/snake" />
+    <SUITE FILE_PATH="coverage/tarkarendus$pacman.coverage" NAME="pacman Coverage Results" MODIFIED="1781099678626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pacman" />
+    <SUITE FILE_PATH="coverage/tarkarendus$lumememm.coverage" NAME="lumememm Coverage Results" MODIFIED="1781092651464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
